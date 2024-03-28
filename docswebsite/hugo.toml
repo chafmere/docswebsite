@@ -1,0 +1,5 @@
+baseURL = 'https://chafmere.github.io/'
+languageCode = 'en-us'
+title = 'Chaff Games Docs'
+
+theme = "compose"

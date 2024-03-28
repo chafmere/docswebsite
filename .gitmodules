@@ -1,0 +1,7 @@
+[submodule "docswebsite/public"]
+	path = docswebsite/public
+	url = https://github.com/chafmere/chafmere.github.io.git
+	branch = main
+[submodule "docswebsite/themes/compose"]
+	path = docswebsite/themes/compose
+	url = https://github.com/onweru/compose/

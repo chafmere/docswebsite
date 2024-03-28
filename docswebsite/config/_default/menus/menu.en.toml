@@ -1,0 +1,25 @@
+#  menu items
+[[main]]
+  name = "Blog"
+  weight = 5
+  url = "blog/"
+
+[[main]]
+  name = "Docs"
+  weight = 2
+  url = "docs/"
+
+[[main]]
+  name = "Tutorials"
+  weight = 2
+  url = "tutorials/"
+
+[[main]]
+  name = "Template"
+  weight = 3
+  url = "https://chafmere.itch.io/godot-4-fps-controller"
+
+# [[main]]
+#   name = "Blog"
+#   weight = 4
+#   url = "blog/"

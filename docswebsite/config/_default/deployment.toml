@@ -1,0 +1,3 @@
+[[deployment.targets]]
+name = "production"
+URL = "chafmere.github.io"
